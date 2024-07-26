@@ -387,23 +387,29 @@ article{
 /* CONTACT*/
 
 label{
-    font-size: 1.75rem;
+    font-size: 1.5rem;
     
 }
 
-section{
+#contact{
     align-content: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    
 }
 
 form{
-    margin-left: 40%;
     margin-top: 5rem;
     text-align: center;
-    margin-left: 40px;
     padding-top: 3rem;
     background: rgba(226, 195, 255, 0.356);
     border: black 0.2rem solid;
     border-radius: 2rem;
+    padding:0;
+    gap: 2rem;
+    padding-bottom: 20px;
+    padding-top: 5rem;
+
 }
 
 
@@ -414,24 +420,24 @@ form{
     padding-left: 10rem;
     text-align: center;
     border: black 0.2rem solid;
+    margin-top: 0.5rem;
+    font-size: 1.5rem;
 }
 
 .message{
     border-radius: 1rem;
-    padding: 1rem;
-    padding-right: 10rem;
-    padding-left: 10rem;
-    margin-bottom: 1rem;
-    margin-left: 145px;
-    margin-top: 1rem;
     text-align: center;
     border: black 0.2rem solid;
+    padding: 5rem;
+    font-size: 1REM;
 }
 
 .btn-color-2{
     border: rgb(255, 255, 255) 0.2rem solid;
     background:rgb(0, 0, 0);
     color: rgb(255, 255, 255);
+    margin-top: 1rem;
+    
     
 }
 
